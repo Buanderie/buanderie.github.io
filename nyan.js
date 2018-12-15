@@ -1,6 +1,6 @@
 nyan = (function() {
-    var MP3_SRC = "nyancat.mp3";
-    var IMG_SRC = "nyancat.gif";
+    var MP3_SRC = "http://www.coupdepute.com/nyancat.mp3";
+    var IMG_SRC = "http://www.coupdepute.com/nyancat.gif";
 
     var STEP_SIZE = 10;
     var audio, body, img, targetX, targetY, mouseX = 0, mouseY = 0;
